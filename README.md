@@ -1,1 +1,1 @@
-<img src="https://streamable.com/7e4gwe">
+<img src="https://media.giphy.com/media/Xy6x5idjiYrxvCcZ5g/giphy.gif">
