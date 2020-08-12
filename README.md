@@ -1,3 +1,5 @@
 <p align="center">
-<img src="https://github.com/rbhog/rbhog/blob/master/readme-video.gif">
+<video autoplay loop>
+<source src="readme-video.mp4" type="video/mp4" />
+</video>
 </p>
