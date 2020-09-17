@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://github.com/rbhog/rbhog/blob/master/readme-video-new.gif">
+<img src="https://media.giphy.com/media/fM2VjBmUW0itoodqa1/giphy.gif">
 </p>
